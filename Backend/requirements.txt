@@ -1,0 +1,9 @@
+spleeter
+ffmpeg-python
+speechrecognition
+pydub
+sentence-transformers
+scipy
+youtube-search-python
+lyricsgenius
+librosa
