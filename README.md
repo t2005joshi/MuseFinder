@@ -55,3 +55,7 @@ MuseFinder is a music search and analysis platform using AI for lyrics, vocal is
 ## License
 
 MIT
+
+## Disclaimer
+
+This project actively scrapes content from Google and Genius.com, which may violate their respective Terms of Service. This codebase was created strictly for educational and personal project purposes. The authors do not endorse or encourage misuse of this tool or violation of any platform's policies. Use at your own discretion and risk.
