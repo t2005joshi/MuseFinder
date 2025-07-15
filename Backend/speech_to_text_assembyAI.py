@@ -8,7 +8,7 @@ import time
 import subprocess
 from mp3_wav import mp3_to_wav
 
-ASSEMBLYAI_API_KEY = "5d421ef3fd2e4c53972c197dc29d4b21"
+ASSEMBLYAI_API_KEY = "Enter your own key"
 UPLOAD_ENDPOINT = "https://api.assemblyai.com/v2/upload"
 TRANSCRIBE_ENDPOINT = "https://api.assemblyai.com/v2/transcript"
 
